@@ -1,0 +1,146 @@
+[
+    {
+        "label": "Istanbul,  Turkey",
+        "value": "istanbul"
+    },
+    {
+        "label": "Moscow,  Russia",
+        "value": "moscow"
+    },
+    {
+        "label": "London,  United Kingdom",
+        "value": "london"
+    },
+    {
+        "label": "Saint Petersburg,  Russia",
+        "value": "saint petersburg"
+    },
+    {
+        "label": "Berlin,  Germany",
+        "value": "berlin"
+    },
+    {
+        "label": "Madrid,  Spain",
+        "value": "madrid"
+    },
+    {
+        "label": "Kiev,  Ukraine",
+        "value": "kiev"
+    },
+    {
+        "label": "Rome,  Italy",
+        "value": "rome"
+    },
+    {
+        "label": "Paris,  France",
+        "value": "paris"
+    },
+    {
+        "label": "Bucharest,  Romania",
+        "value": "bucharest"
+    },
+    {
+        "label": "Minsk,  Belarus",
+        "value": "minsk"
+    },
+    {
+        "label": "Vienna,  Austria",
+        "value": "vienna"
+    },
+    {
+        "label": "Hamburg,  Germany",
+        "value": "hamburg"
+    },
+    {
+        "label": "Budapest,  Hungary",
+        "value": "budapest"
+    },
+    {
+        "label": "Warsaw,  Poland",
+        "value": "warsaw"
+    },
+    {
+        "label": "Barcelona,  Spain",
+        "value": "barcelona"
+    },
+    {
+        "label": "Munich,  Germany",
+        "value": "munich"
+    },
+    {
+        "label": "Kharkiv,  Ukraine",
+        "value": "kharkiv"
+    },
+    {
+        "label": "Milan,  Italy",
+        "value": "milan"
+    },
+    {
+        "label": "Prague,  Czech Republic",
+        "value": "prague"
+    },
+    {
+        "label": "Nizhny Novgorod,  Russia",
+        "value": "nizhny novgorod"
+    },
+    {
+        "label": "Sofia,  Bulgaria",
+        "value": "sofia"
+    },
+    {
+        "label": "Kazan,  Russia",
+        "value": "kazan"
+    },
+    {
+        "label": "Brussels,  Belgium",
+        "value": "brussels"
+    },
+    {
+        "label": "Samara,  Russia",
+        "value": "samara"
+    },
+    {
+        "label": "Belgrade,  Serbia",
+        "value": "belgrade"
+    },
+    {
+        "label": "Rostov-on-Don,  Russia",
+        "value": "rostov-on-don"
+    },
+    {
+        "label": "Birmingham,  United Kingdom",
+        "value": "birmingham"
+    },
+    {
+        "label": "Ufa,  Russia",
+        "value": "ufa"
+    },
+    {
+        "label": "Cologne,  Germany",
+        "value": "cologne"
+    },
+    {
+        "label": "Perm,  Russia",
+        "value": "perm"
+    },
+    {
+        "label": "Voronezh,  Russia",
+        "value": "voronezh"
+    },
+    {
+        "label": "Volgograd,  Russia",
+        "value": "volgograd"
+    },
+    {
+        "label": "Odessa,  Ukraine",
+        "value": "odessa"
+    },
+    {
+        "label": "Naples,  Italy",
+        "value": "naples"
+    },
+    {
+        "label": "Dnipropetrovsk,  Ukraine",
+        "value": "dnipropetrovsk"
+    }
+]
